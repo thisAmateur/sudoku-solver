@@ -3,6 +3,8 @@
 
 执行入口在com.tA.sudoku.main.MainThread
 
-################### change-log ######################
+
+=== change-log ===
+
 2017-10-07
 1.初始化工程
